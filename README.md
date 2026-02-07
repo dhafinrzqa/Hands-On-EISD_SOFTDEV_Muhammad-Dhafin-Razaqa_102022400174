@@ -1,4 +1,6 @@
-1. Di hari pertama pendaftaran, panitia menemukan beberapa kejadian :
+Soal No 1
+
+Di hari pertama pendaftaran, panitia menemukan beberapa kejadian :
 - Ada peserta yang panik karena halaman sempat loading lama, lalu menekan tombol Daftar berkali-kali yang mengakibatkan data masuk lebih dari sekali. (3)
 - Ada yang mengisi asal: nama “.”, email “aaa”, atau bahkan mengosongkan form mengakibatkan data berantakan. (1)
 - Di akhir hari, beberapa kelas yang kuotanya 25 orang ternyata terisi 30+ karena sistem tetap menerima pendaftaran. (4)
